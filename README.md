@@ -1,0 +1,2 @@
+# UniversityofSoutherCaliforniaLandingPage
+GitHub Pages
